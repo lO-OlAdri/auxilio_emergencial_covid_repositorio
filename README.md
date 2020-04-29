@@ -2,6 +2,7 @@
 Repositório do projeto sobre o Auxílio Emergencial do governo brasileiro no contexto da pandemia provocada pela SARS-Cov2.
 
 Essas são minhas primeiras linhas de código.  :)
+
 Estou aprendendo a programar com este projeto, então não repare se for inicial demais para você.
 
 
